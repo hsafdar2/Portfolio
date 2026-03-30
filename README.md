@@ -1,20 +1,30 @@
-# Huma Safdar – Portfolio
+# Hi, I'm Huma Safdar 👋
 
-IT student at George Mason University with experience in Python, HTML, Java, mobile app development, Microsoft Project, AWS, and Wireshark.
+🎓 IT Student @ George Mason University  
+💻 Passionate about building real-world projects and growing in tech  
 
-## 💻 Skills
-- Python
-- HTML & CSS
-- Java
-- Mobile App Development
-- Microsoft Project (Project Planning & Scheduling)
-- AWS (Cloud Fundamentals)
-- Wireshark (Network Traffic Analysis)
-- Problem Solving
+---
+
+## 🚀 Skills
+
+### 💻 Programming
+- 🐍 Python  
+- ☕ Java  
+- 🌐 HTML & CSS  
+
+### 📱 Development
+- 📱 Mobile App Development  
+
+### ☁️ Cloud & Tools
+- ☁️ AWS (Cloud Fundamentals)  
+- 📊 Microsoft Project  
+- 🌐 Wireshark (Network Analysis)  
+
+---
 
 ## 📂 Projects
 
-### Python Projects
+### 🐍 Python
 - Sphere Surface Area Calculator  
 - Loop Counter  
 - Temperature Analyzer  
@@ -23,28 +33,30 @@ IT student at George Mason University with experience in Python, HTML, Java, mob
 - Salad Order System  
 - User Password Manager  
 
-### MS Project Work
-- Created project schedules using Microsoft Project  
-- Defined task dependencies and durations  
-- Applied project planning and scheduling concepts  
+### 🌐 Web Development
+- HTML/CSS Website Projects  
 
-### Web Development
-- HTML/CSS website projects  
+### ☕ Java
+- Object-Oriented Programming Assignments  
 
-### Java Programming
-- Object-oriented programming assignments  
+### 📱 Mobile Apps
+- Beginner mobile app projects focusing on UI & functionality  
 
-### Mobile App
-- Beginner mobile app project focusing on UI and functionality  
+### 📊 MS Project
+- Project planning, scheduling, and task management  
 
-### Cloud (AWS)
-- Basic understanding of cloud computing concepts  
-- Familiar with AWS services and cloud environments  
+### ☁️ AWS
+- Basic cloud concepts and hands-on learning  
 
-### Networking (Wireshark)
-- Analyzed network traffic using Wireshark  
-- Observed packet transmission and protocols  
-- Gained understanding of TCP/IP communication  
+### 🌐 Networking
+- Packet analysis using Wireshark  
+
+---
 
 ## 🎯 Goal
-Building practical projects and improving my skills to gain real-world experience and internships in IT, networking, cloud computing, and software development.
+To secure an internship in IT, software development, or cloud computing and continue building strong technical skills.
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/your-username
