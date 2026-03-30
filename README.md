@@ -1,5 +1,3 @@
-# Portfolio
-GMU IT student | Python, HTML, Java, Mobile Apps | Building projects and growing in tech
 # Huma Safdar – Python Projects Portfolio
 
 IT student at George Mason University with experience in Python, HTML, Java, and mobile app development.
