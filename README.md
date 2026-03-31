@@ -60,3 +60,6 @@ To secure an internship in IT, software development, or cloud computing and cont
 
 ## 📫 Connect with Me
 www.linkedin.com/in/huma-safdar-a920872a3
+
+## 📄 Resume
+[View My Resume](https://github.com/hsafdar2/Portfolio/raw/main/Huma_Safdar_Resume.pdf)
