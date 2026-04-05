@@ -1,7 +1,10 @@
-# Hi, I'm Huma Safdar 👋
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Huma%20Safdar&fontSize=40&fontColor=ffffff)
+
+# 👋 Hi, I'm Huma Safdar
 
 🎓 IT Student @ George Mason University  
 💻 Passionate about building real-world projects and growing in tech  
+🚀 Building projects in Python, Web Development, and Cloud Computing  
 
 ---
 
@@ -24,7 +27,7 @@
 
 ## 📂 Projects
 
-### 🐍 Python
+### 🐍 Python Projects
 - Sphere Surface Area Calculator  
 - Loop Counter  
 - Temperature Analyzer  
@@ -59,7 +62,13 @@ To secure an internship in IT, software development, or cloud computing and cont
 ---
 
 ## 📫 Connect with Me
-www.linkedin.com/in/huma-safdar-a920872a3
+🔗 [LinkedIn](https://www.linkedin.com/in/huma-safdar-a920872a3)
+
+---
 
 ## 📄 Resume
-[View My Resume](https://github.com/hsafdar2/Portfolio/raw/main/Huma_Safdar_Resume.pdf)
+📎 [View My Resume](https://github.com/hsafdar2/Portfolio/raw/main/Huma_Safdar_Resume.pdf)
+
+---
+
+⭐ *Always learning, always building.*
